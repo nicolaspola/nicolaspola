@@ -1,7 +1,7 @@
 Hi 👋 My name is Nicolás Pola
 =============================
 
-Front-end developer
+Front-end web developer
 -------------------
 
 I'm currently studying for Front-end developer with React js and doing a lot of research by my own.
